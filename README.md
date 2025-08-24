@@ -20,7 +20,7 @@ Its goal is for you to **learn the memory palace method** and then no longer nee
 ## 📖 Learn More  
 
 For the full philosophy and vision, see:  
-➡️ [docs/PHILOSOPHY.md](docs/PHILOSOPHY.md)  
+➡️ [PHILOSOPHY](docs/PHILOSOPHY.md)  
 
 ---
 
