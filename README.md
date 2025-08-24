@@ -36,4 +36,17 @@ For the full philosophy and vision, see:
 
 - 🛠️ Developers: see `CONTRIBUTING.md` (coming soon).  
 - 📚 Learners: first experiments will be documented here.  
-- 🌍 Community: share ideas via issues—always check alignment with our philosophy.  
+- 🌍 Community: share ideas via issues—always check alignment with our philosophy.
+
+---
+
+## 🙏 Support This Project
+
+This tool will always remain **free** in service of fostering learner independence—not perpetual usage.
+
+If you’d like to support its development, there are two ways to help:
+
+- **Donate** to sustain hosting, documentation, design work, and keep the tool freely available.  
+- **Contribute** your time and skills in any shape or form.
+
+Learn more at the full [Support page](docs/SUPPORT.md).
