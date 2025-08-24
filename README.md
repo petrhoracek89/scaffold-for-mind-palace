@@ -34,7 +34,7 @@ For the full philosophy and vision, see:
 
 ## 💡 How to Contribute  
 
-- 🛠️ Developers: see `CONTRIBUTING.md` (coming soon).  
+- 🛠️ Developers: see `CONTRIBUTING.md`.  
 - 📚 Learners: first experiments will be documented here.  
 - 🌍 Community: share ideas via issues—always check alignment with our philosophy.
 
